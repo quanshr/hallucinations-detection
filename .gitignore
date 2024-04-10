@@ -1,0 +1,7 @@
+__pycache__/
+results/
+logs/
+my_model/
+tmp/
+predictions/
+*.out
